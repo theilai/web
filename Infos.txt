@@ -1,0 +1,10 @@
+Installation flask erforderlich.
+
+Start mit "python app.py" (End with Ctrl+C, Server is http://127.0.0.1:5000/ ) -> Eingabe drei Werte dann Prognose
+Start (zusätzlich, damit Server rennt im 2. cmd) mit "python request.py" für einzelne Anfrage/Ausgabe per Script
+
+Basis:
+https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-flask.html
+
+Info:
+Macht eine Prognose für ein vorhandenes sklearn Modell per Webservice
